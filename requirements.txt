@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain_groq
+chromadb
+python-dotenv
+pypdf
+docx2txt
+python-magic-bin
+python-magic
+tiktoken
